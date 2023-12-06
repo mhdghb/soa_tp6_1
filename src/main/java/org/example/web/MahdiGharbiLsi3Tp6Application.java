@@ -25,7 +25,7 @@ public class MahdiGharbiLsi3Tp6Application {
             compte1.setType(Compte.typeCompte.EPARGNE);
             compte1.setEtat(Compte.etatCompte.BLOQUE);
 
-            Compte compte2 = new Compte();
+            Compte compte2 = new Compte();q
             compte2.setSolde(2000.0);
             compte2.setDateCreation(new Date());
             compte2.setType(Compte.typeCompte.EPARGNE);
